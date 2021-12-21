@@ -6,6 +6,8 @@ body {
   width: 1200px;
   margin: auto;
   background-color: rgb(0, 0, 0);
+  background-size: 15px 15px;
+  background-image: repeating-linear-gradient(45deg, #222222 0, #000000 2px, #000000 0, #000000 50%);
 }
 
 table,
@@ -82,7 +84,7 @@ td {
   height: 10px;
   width: 10px;
   background-color: white;
-  top: 101px;
+  top: 99px;
   left: 192px;
 }
 .dot3 {
@@ -90,6 +92,6 @@ td {
   height: 10px;
   width: 10px;
   background-color: white;
-  top: 101px;
+  top: 99px;
   right: 192px;
 }
